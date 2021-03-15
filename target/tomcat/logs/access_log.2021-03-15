@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [15/Mar/2021:13:21:02 +0530] "GET /Jenkins-Maven HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [15/Mar/2021:13:21:04 +0530] "GET /Jenkins-Maven/ HTTP/1.1" 200 96 http-bio-8080-exec-3 1091
